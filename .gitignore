@@ -1,0 +1,3 @@
+# ignore created snaps for upload
+
+*.snap
